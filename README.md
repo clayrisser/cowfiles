@@ -22,7 +22,7 @@ sudo curl -LO https://github.com/jamrizzi/cowfiles/blob/master/install.sh | sudo
 ## Dependencies
 <!------------------------------------------------------->
 
-[Cowsay](https://github.com/piuccio/cowsay)
+* [Cowsay](https://github.com/piuccio/cowsay)
 
 
 ## Usage
